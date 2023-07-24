@@ -1,0 +1,15 @@
+D:\Desenvolvimento\C Sharp\CursoFixacao\CursoFixacao\obj\Debug\net6.0\CursoFixacao.csproj.AssemblyReference.cache
+D:\Desenvolvimento\C Sharp\CursoFixacao\CursoFixacao\obj\Debug\net6.0\CursoFixacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\C Sharp\CursoFixacao\CursoFixacao\obj\Debug\net6.0\CursoFixacao.AssemblyInfoInputs.cache
+D:\Desenvolvimento\C Sharp\CursoFixacao\CursoFixacao\obj\Debug\net6.0\CursoFixacao.AssemblyInfo.cs
+D:\Desenvolvimento\C Sharp\CursoFixacao\CursoFixacao\obj\Debug\net6.0\CursoFixacao.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\C Sharp\CursoFixacao\CursoFixacao\bin\Debug\net6.0\CursoFixacao.exe
+D:\Desenvolvimento\C Sharp\CursoFixacao\CursoFixacao\bin\Debug\net6.0\CursoFixacao.deps.json
+D:\Desenvolvimento\C Sharp\CursoFixacao\CursoFixacao\bin\Debug\net6.0\CursoFixacao.runtimeconfig.json
+D:\Desenvolvimento\C Sharp\CursoFixacao\CursoFixacao\bin\Debug\net6.0\CursoFixacao.dll
+D:\Desenvolvimento\C Sharp\CursoFixacao\CursoFixacao\bin\Debug\net6.0\CursoFixacao.pdb
+D:\Desenvolvimento\C Sharp\CursoFixacao\CursoFixacao\obj\Debug\net6.0\CursoFixacao.dll
+D:\Desenvolvimento\C Sharp\CursoFixacao\CursoFixacao\obj\Debug\net6.0\refint\CursoFixacao.dll
+D:\Desenvolvimento\C Sharp\CursoFixacao\CursoFixacao\obj\Debug\net6.0\CursoFixacao.pdb
+D:\Desenvolvimento\C Sharp\CursoFixacao\CursoFixacao\obj\Debug\net6.0\CursoFixacao.genruntimeconfig.cache
+D:\Desenvolvimento\C Sharp\CursoFixacao\CursoFixacao\obj\Debug\net6.0\ref\CursoFixacao.dll

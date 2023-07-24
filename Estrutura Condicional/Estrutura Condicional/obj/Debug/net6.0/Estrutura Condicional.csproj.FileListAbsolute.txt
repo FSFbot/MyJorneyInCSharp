@@ -1,0 +1,15 @@
+D:\Desenvolvimento\C Sharp\Estrutura Condicional\Estrutura Condicional\bin\Debug\net6.0\Estrutura Condicional.exe
+D:\Desenvolvimento\C Sharp\Estrutura Condicional\Estrutura Condicional\bin\Debug\net6.0\Estrutura Condicional.deps.json
+D:\Desenvolvimento\C Sharp\Estrutura Condicional\Estrutura Condicional\bin\Debug\net6.0\Estrutura Condicional.runtimeconfig.json
+D:\Desenvolvimento\C Sharp\Estrutura Condicional\Estrutura Condicional\bin\Debug\net6.0\Estrutura Condicional.dll
+D:\Desenvolvimento\C Sharp\Estrutura Condicional\Estrutura Condicional\bin\Debug\net6.0\Estrutura Condicional.pdb
+D:\Desenvolvimento\C Sharp\Estrutura Condicional\Estrutura Condicional\obj\Debug\net6.0\Estrutura Condicional.csproj.AssemblyReference.cache
+D:\Desenvolvimento\C Sharp\Estrutura Condicional\Estrutura Condicional\obj\Debug\net6.0\Estrutura Condicional.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\C Sharp\Estrutura Condicional\Estrutura Condicional\obj\Debug\net6.0\Estrutura Condicional.AssemblyInfoInputs.cache
+D:\Desenvolvimento\C Sharp\Estrutura Condicional\Estrutura Condicional\obj\Debug\net6.0\Estrutura Condicional.AssemblyInfo.cs
+D:\Desenvolvimento\C Sharp\Estrutura Condicional\Estrutura Condicional\obj\Debug\net6.0\Estrutura Condicional.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\C Sharp\Estrutura Condicional\Estrutura Condicional\obj\Debug\net6.0\Estrutura Condicional.dll
+D:\Desenvolvimento\C Sharp\Estrutura Condicional\Estrutura Condicional\obj\Debug\net6.0\refint\Estrutura Condicional.dll
+D:\Desenvolvimento\C Sharp\Estrutura Condicional\Estrutura Condicional\obj\Debug\net6.0\Estrutura Condicional.pdb
+D:\Desenvolvimento\C Sharp\Estrutura Condicional\Estrutura Condicional\obj\Debug\net6.0\Estrutura Condicional.genruntimeconfig.cache
+D:\Desenvolvimento\C Sharp\Estrutura Condicional\Estrutura Condicional\obj\Debug\net6.0\ref\Estrutura Condicional.dll

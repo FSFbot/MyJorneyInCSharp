@@ -1,0 +1,15 @@
+D:\Desenvolvimento\C Sharp\Object-Orientation\Object-Orientation\bin\Debug\net6.0\Object-Orientation.exe
+D:\Desenvolvimento\C Sharp\Object-Orientation\Object-Orientation\bin\Debug\net6.0\Object-Orientation.deps.json
+D:\Desenvolvimento\C Sharp\Object-Orientation\Object-Orientation\bin\Debug\net6.0\Object-Orientation.runtimeconfig.json
+D:\Desenvolvimento\C Sharp\Object-Orientation\Object-Orientation\bin\Debug\net6.0\Object-Orientation.dll
+D:\Desenvolvimento\C Sharp\Object-Orientation\Object-Orientation\bin\Debug\net6.0\Object-Orientation.pdb
+D:\Desenvolvimento\C Sharp\Object-Orientation\Object-Orientation\obj\Debug\net6.0\Object-Orientation.csproj.AssemblyReference.cache
+D:\Desenvolvimento\C Sharp\Object-Orientation\Object-Orientation\obj\Debug\net6.0\Object-Orientation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\C Sharp\Object-Orientation\Object-Orientation\obj\Debug\net6.0\Object-Orientation.AssemblyInfoInputs.cache
+D:\Desenvolvimento\C Sharp\Object-Orientation\Object-Orientation\obj\Debug\net6.0\Object-Orientation.AssemblyInfo.cs
+D:\Desenvolvimento\C Sharp\Object-Orientation\Object-Orientation\obj\Debug\net6.0\Object-Orientation.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\C Sharp\Object-Orientation\Object-Orientation\obj\Debug\net6.0\Object-Orientation.dll
+D:\Desenvolvimento\C Sharp\Object-Orientation\Object-Orientation\obj\Debug\net6.0\refint\Object-Orientation.dll
+D:\Desenvolvimento\C Sharp\Object-Orientation\Object-Orientation\obj\Debug\net6.0\Object-Orientation.pdb
+D:\Desenvolvimento\C Sharp\Object-Orientation\Object-Orientation\obj\Debug\net6.0\Object-Orientation.genruntimeconfig.cache
+D:\Desenvolvimento\C Sharp\Object-Orientation\Object-Orientation\obj\Debug\net6.0\ref\Object-Orientation.dll

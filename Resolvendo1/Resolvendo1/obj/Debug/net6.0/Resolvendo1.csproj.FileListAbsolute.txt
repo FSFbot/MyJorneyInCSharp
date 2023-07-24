@@ -1,0 +1,15 @@
+D:\Desenvolvimento\C Sharp\Resolvendo1\Resolvendo1\bin\Debug\net6.0\Resolvendo1.exe
+D:\Desenvolvimento\C Sharp\Resolvendo1\Resolvendo1\bin\Debug\net6.0\Resolvendo1.deps.json
+D:\Desenvolvimento\C Sharp\Resolvendo1\Resolvendo1\bin\Debug\net6.0\Resolvendo1.runtimeconfig.json
+D:\Desenvolvimento\C Sharp\Resolvendo1\Resolvendo1\bin\Debug\net6.0\Resolvendo1.dll
+D:\Desenvolvimento\C Sharp\Resolvendo1\Resolvendo1\bin\Debug\net6.0\Resolvendo1.pdb
+D:\Desenvolvimento\C Sharp\Resolvendo1\Resolvendo1\obj\Debug\net6.0\Resolvendo1.csproj.AssemblyReference.cache
+D:\Desenvolvimento\C Sharp\Resolvendo1\Resolvendo1\obj\Debug\net6.0\Resolvendo1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\C Sharp\Resolvendo1\Resolvendo1\obj\Debug\net6.0\Resolvendo1.AssemblyInfoInputs.cache
+D:\Desenvolvimento\C Sharp\Resolvendo1\Resolvendo1\obj\Debug\net6.0\Resolvendo1.AssemblyInfo.cs
+D:\Desenvolvimento\C Sharp\Resolvendo1\Resolvendo1\obj\Debug\net6.0\Resolvendo1.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\C Sharp\Resolvendo1\Resolvendo1\obj\Debug\net6.0\Resolvendo1.dll
+D:\Desenvolvimento\C Sharp\Resolvendo1\Resolvendo1\obj\Debug\net6.0\refint\Resolvendo1.dll
+D:\Desenvolvimento\C Sharp\Resolvendo1\Resolvendo1\obj\Debug\net6.0\Resolvendo1.pdb
+D:\Desenvolvimento\C Sharp\Resolvendo1\Resolvendo1\obj\Debug\net6.0\Resolvendo1.genruntimeconfig.cache
+D:\Desenvolvimento\C Sharp\Resolvendo1\Resolvendo1\obj\Debug\net6.0\ref\Resolvendo1.dll

@@ -1,0 +1,15 @@
+D:\Desenvolvimento\C Sharp\Projeto Teste\Projeto Teste\bin\Debug\net7.0\Projeto Teste.exe
+D:\Desenvolvimento\C Sharp\Projeto Teste\Projeto Teste\bin\Debug\net7.0\Projeto Teste.deps.json
+D:\Desenvolvimento\C Sharp\Projeto Teste\Projeto Teste\bin\Debug\net7.0\Projeto Teste.runtimeconfig.json
+D:\Desenvolvimento\C Sharp\Projeto Teste\Projeto Teste\bin\Debug\net7.0\Projeto Teste.dll
+D:\Desenvolvimento\C Sharp\Projeto Teste\Projeto Teste\bin\Debug\net7.0\Projeto Teste.pdb
+D:\Desenvolvimento\C Sharp\Projeto Teste\Projeto Teste\obj\Debug\net7.0\Projeto Teste.csproj.AssemblyReference.cache
+D:\Desenvolvimento\C Sharp\Projeto Teste\Projeto Teste\obj\Debug\net7.0\Projeto Teste.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\C Sharp\Projeto Teste\Projeto Teste\obj\Debug\net7.0\Projeto Teste.AssemblyInfoInputs.cache
+D:\Desenvolvimento\C Sharp\Projeto Teste\Projeto Teste\obj\Debug\net7.0\Projeto Teste.AssemblyInfo.cs
+D:\Desenvolvimento\C Sharp\Projeto Teste\Projeto Teste\obj\Debug\net7.0\Projeto Teste.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\C Sharp\Projeto Teste\Projeto Teste\obj\Debug\net7.0\Projeto Teste.dll
+D:\Desenvolvimento\C Sharp\Projeto Teste\Projeto Teste\obj\Debug\net7.0\refint\Projeto Teste.dll
+D:\Desenvolvimento\C Sharp\Projeto Teste\Projeto Teste\obj\Debug\net7.0\Projeto Teste.pdb
+D:\Desenvolvimento\C Sharp\Projeto Teste\Projeto Teste\obj\Debug\net7.0\Projeto Teste.genruntimeconfig.cache
+D:\Desenvolvimento\C Sharp\Projeto Teste\Projeto Teste\obj\Debug\net7.0\ref\Projeto Teste.dll
