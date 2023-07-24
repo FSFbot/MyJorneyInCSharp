@@ -1,0 +1,15 @@
+D:\Desenvolvimento\C Sharp\ExercicioFor\ExercicioFor\bin\Debug\net6.0\ExercicioFor.exe
+D:\Desenvolvimento\C Sharp\ExercicioFor\ExercicioFor\bin\Debug\net6.0\ExercicioFor.deps.json
+D:\Desenvolvimento\C Sharp\ExercicioFor\ExercicioFor\bin\Debug\net6.0\ExercicioFor.runtimeconfig.json
+D:\Desenvolvimento\C Sharp\ExercicioFor\ExercicioFor\bin\Debug\net6.0\ExercicioFor.dll
+D:\Desenvolvimento\C Sharp\ExercicioFor\ExercicioFor\bin\Debug\net6.0\ExercicioFor.pdb
+D:\Desenvolvimento\C Sharp\ExercicioFor\ExercicioFor\obj\Debug\net6.0\ExercicioFor.csproj.AssemblyReference.cache
+D:\Desenvolvimento\C Sharp\ExercicioFor\ExercicioFor\obj\Debug\net6.0\ExercicioFor.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\C Sharp\ExercicioFor\ExercicioFor\obj\Debug\net6.0\ExercicioFor.AssemblyInfoInputs.cache
+D:\Desenvolvimento\C Sharp\ExercicioFor\ExercicioFor\obj\Debug\net6.0\ExercicioFor.AssemblyInfo.cs
+D:\Desenvolvimento\C Sharp\ExercicioFor\ExercicioFor\obj\Debug\net6.0\ExercicioFor.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\C Sharp\ExercicioFor\ExercicioFor\obj\Debug\net6.0\ExercicioFor.dll
+D:\Desenvolvimento\C Sharp\ExercicioFor\ExercicioFor\obj\Debug\net6.0\refint\ExercicioFor.dll
+D:\Desenvolvimento\C Sharp\ExercicioFor\ExercicioFor\obj\Debug\net6.0\ExercicioFor.pdb
+D:\Desenvolvimento\C Sharp\ExercicioFor\ExercicioFor\obj\Debug\net6.0\ExercicioFor.genruntimeconfig.cache
+D:\Desenvolvimento\C Sharp\ExercicioFor\ExercicioFor\obj\Debug\net6.0\ref\ExercicioFor.dll

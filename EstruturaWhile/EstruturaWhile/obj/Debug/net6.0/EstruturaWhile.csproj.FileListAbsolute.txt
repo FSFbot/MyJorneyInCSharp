@@ -1,0 +1,15 @@
+D:\Desenvolvimento\C Sharp\EstruturaWhile\EstruturaWhile\bin\Debug\net6.0\EstruturaWhile.exe
+D:\Desenvolvimento\C Sharp\EstruturaWhile\EstruturaWhile\bin\Debug\net6.0\EstruturaWhile.deps.json
+D:\Desenvolvimento\C Sharp\EstruturaWhile\EstruturaWhile\bin\Debug\net6.0\EstruturaWhile.runtimeconfig.json
+D:\Desenvolvimento\C Sharp\EstruturaWhile\EstruturaWhile\bin\Debug\net6.0\EstruturaWhile.dll
+D:\Desenvolvimento\C Sharp\EstruturaWhile\EstruturaWhile\bin\Debug\net6.0\EstruturaWhile.pdb
+D:\Desenvolvimento\C Sharp\EstruturaWhile\EstruturaWhile\obj\Debug\net6.0\EstruturaWhile.csproj.AssemblyReference.cache
+D:\Desenvolvimento\C Sharp\EstruturaWhile\EstruturaWhile\obj\Debug\net6.0\EstruturaWhile.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\C Sharp\EstruturaWhile\EstruturaWhile\obj\Debug\net6.0\EstruturaWhile.AssemblyInfoInputs.cache
+D:\Desenvolvimento\C Sharp\EstruturaWhile\EstruturaWhile\obj\Debug\net6.0\EstruturaWhile.AssemblyInfo.cs
+D:\Desenvolvimento\C Sharp\EstruturaWhile\EstruturaWhile\obj\Debug\net6.0\EstruturaWhile.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\C Sharp\EstruturaWhile\EstruturaWhile\obj\Debug\net6.0\EstruturaWhile.dll
+D:\Desenvolvimento\C Sharp\EstruturaWhile\EstruturaWhile\obj\Debug\net6.0\refint\EstruturaWhile.dll
+D:\Desenvolvimento\C Sharp\EstruturaWhile\EstruturaWhile\obj\Debug\net6.0\EstruturaWhile.pdb
+D:\Desenvolvimento\C Sharp\EstruturaWhile\EstruturaWhile\obj\Debug\net6.0\EstruturaWhile.genruntimeconfig.cache
+D:\Desenvolvimento\C Sharp\EstruturaWhile\EstruturaWhile\obj\Debug\net6.0\ref\EstruturaWhile.dll
