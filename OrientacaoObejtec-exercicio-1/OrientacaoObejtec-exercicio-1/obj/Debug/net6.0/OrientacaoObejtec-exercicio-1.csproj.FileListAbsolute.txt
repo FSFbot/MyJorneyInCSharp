@@ -1,0 +1,15 @@
+D:\Desenvolvimento\C Sharp\OrientacaoObejtec-exercicio-1\OrientacaoObejtec-exercicio-1\bin\Debug\net6.0\OrientacaoObejtec-exercicio-1.exe
+D:\Desenvolvimento\C Sharp\OrientacaoObejtec-exercicio-1\OrientacaoObejtec-exercicio-1\bin\Debug\net6.0\OrientacaoObejtec-exercicio-1.deps.json
+D:\Desenvolvimento\C Sharp\OrientacaoObejtec-exercicio-1\OrientacaoObejtec-exercicio-1\bin\Debug\net6.0\OrientacaoObejtec-exercicio-1.runtimeconfig.json
+D:\Desenvolvimento\C Sharp\OrientacaoObejtec-exercicio-1\OrientacaoObejtec-exercicio-1\bin\Debug\net6.0\OrientacaoObejtec-exercicio-1.dll
+D:\Desenvolvimento\C Sharp\OrientacaoObejtec-exercicio-1\OrientacaoObejtec-exercicio-1\bin\Debug\net6.0\OrientacaoObejtec-exercicio-1.pdb
+D:\Desenvolvimento\C Sharp\OrientacaoObejtec-exercicio-1\OrientacaoObejtec-exercicio-1\obj\Debug\net6.0\OrientacaoObejtec-exercicio-1.csproj.AssemblyReference.cache
+D:\Desenvolvimento\C Sharp\OrientacaoObejtec-exercicio-1\OrientacaoObejtec-exercicio-1\obj\Debug\net6.0\OrientacaoObejtec-exercicio-1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\C Sharp\OrientacaoObejtec-exercicio-1\OrientacaoObejtec-exercicio-1\obj\Debug\net6.0\OrientacaoObejtec-exercicio-1.AssemblyInfoInputs.cache
+D:\Desenvolvimento\C Sharp\OrientacaoObejtec-exercicio-1\OrientacaoObejtec-exercicio-1\obj\Debug\net6.0\OrientacaoObejtec-exercicio-1.AssemblyInfo.cs
+D:\Desenvolvimento\C Sharp\OrientacaoObejtec-exercicio-1\OrientacaoObejtec-exercicio-1\obj\Debug\net6.0\OrientacaoObejtec-exercicio-1.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\C Sharp\OrientacaoObejtec-exercicio-1\OrientacaoObejtec-exercicio-1\obj\Debug\net6.0\OrientacaoObejtec-exercicio-1.dll
+D:\Desenvolvimento\C Sharp\OrientacaoObejtec-exercicio-1\OrientacaoObejtec-exercicio-1\obj\Debug\net6.0\refint\OrientacaoObejtec-exercicio-1.dll
+D:\Desenvolvimento\C Sharp\OrientacaoObejtec-exercicio-1\OrientacaoObejtec-exercicio-1\obj\Debug\net6.0\OrientacaoObejtec-exercicio-1.pdb
+D:\Desenvolvimento\C Sharp\OrientacaoObejtec-exercicio-1\OrientacaoObejtec-exercicio-1\obj\Debug\net6.0\OrientacaoObejtec-exercicio-1.genruntimeconfig.cache
+D:\Desenvolvimento\C Sharp\OrientacaoObejtec-exercicio-1\OrientacaoObejtec-exercicio-1\obj\Debug\net6.0\ref\OrientacaoObejtec-exercicio-1.dll
