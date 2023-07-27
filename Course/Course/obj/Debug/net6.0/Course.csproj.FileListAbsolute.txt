@@ -1,0 +1,5 @@
+D:\Desenvolvimento\C Sharp\Course\Course\obj\Debug\net6.0\Course.csproj.AssemblyReference.cache
+D:\Desenvolvimento\C Sharp\Course\Course\obj\Debug\net6.0\Course.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\C Sharp\Course\Course\obj\Debug\net6.0\Course.AssemblyInfoInputs.cache
+D:\Desenvolvimento\C Sharp\Course\Course\obj\Debug\net6.0\Course.AssemblyInfo.cs
+D:\Desenvolvimento\C Sharp\Course\Course\obj\Debug\net6.0\Course.csproj.CoreCompileInputs.cache

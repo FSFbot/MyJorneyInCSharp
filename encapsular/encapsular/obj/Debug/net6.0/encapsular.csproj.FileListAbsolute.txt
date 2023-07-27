@@ -1,0 +1,15 @@
+D:\Desenvolvimento\C Sharp\encapsular\encapsular\bin\Debug\net6.0\encapsular.exe
+D:\Desenvolvimento\C Sharp\encapsular\encapsular\bin\Debug\net6.0\encapsular.deps.json
+D:\Desenvolvimento\C Sharp\encapsular\encapsular\bin\Debug\net6.0\encapsular.runtimeconfig.json
+D:\Desenvolvimento\C Sharp\encapsular\encapsular\bin\Debug\net6.0\encapsular.dll
+D:\Desenvolvimento\C Sharp\encapsular\encapsular\bin\Debug\net6.0\encapsular.pdb
+D:\Desenvolvimento\C Sharp\encapsular\encapsular\obj\Debug\net6.0\encapsular.csproj.AssemblyReference.cache
+D:\Desenvolvimento\C Sharp\encapsular\encapsular\obj\Debug\net6.0\encapsular.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\C Sharp\encapsular\encapsular\obj\Debug\net6.0\encapsular.AssemblyInfoInputs.cache
+D:\Desenvolvimento\C Sharp\encapsular\encapsular\obj\Debug\net6.0\encapsular.AssemblyInfo.cs
+D:\Desenvolvimento\C Sharp\encapsular\encapsular\obj\Debug\net6.0\encapsular.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\C Sharp\encapsular\encapsular\obj\Debug\net6.0\encapsular.dll
+D:\Desenvolvimento\C Sharp\encapsular\encapsular\obj\Debug\net6.0\refint\encapsular.dll
+D:\Desenvolvimento\C Sharp\encapsular\encapsular\obj\Debug\net6.0\encapsular.pdb
+D:\Desenvolvimento\C Sharp\encapsular\encapsular\obj\Debug\net6.0\encapsular.genruntimeconfig.cache
+D:\Desenvolvimento\C Sharp\encapsular\encapsular\obj\Debug\net6.0\ref\encapsular.dll
