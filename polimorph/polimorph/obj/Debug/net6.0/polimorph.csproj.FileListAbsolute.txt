@@ -1,0 +1,15 @@
+D:\Desenvolvimento\C Sharp\polimorph\polimorph\bin\Debug\net6.0\polimorph.exe
+D:\Desenvolvimento\C Sharp\polimorph\polimorph\bin\Debug\net6.0\polimorph.deps.json
+D:\Desenvolvimento\C Sharp\polimorph\polimorph\bin\Debug\net6.0\polimorph.runtimeconfig.json
+D:\Desenvolvimento\C Sharp\polimorph\polimorph\bin\Debug\net6.0\polimorph.dll
+D:\Desenvolvimento\C Sharp\polimorph\polimorph\bin\Debug\net6.0\polimorph.pdb
+D:\Desenvolvimento\C Sharp\polimorph\polimorph\obj\Debug\net6.0\polimorph.csproj.AssemblyReference.cache
+D:\Desenvolvimento\C Sharp\polimorph\polimorph\obj\Debug\net6.0\polimorph.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\C Sharp\polimorph\polimorph\obj\Debug\net6.0\polimorph.AssemblyInfoInputs.cache
+D:\Desenvolvimento\C Sharp\polimorph\polimorph\obj\Debug\net6.0\polimorph.AssemblyInfo.cs
+D:\Desenvolvimento\C Sharp\polimorph\polimorph\obj\Debug\net6.0\polimorph.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\C Sharp\polimorph\polimorph\obj\Debug\net6.0\polimorph.dll
+D:\Desenvolvimento\C Sharp\polimorph\polimorph\obj\Debug\net6.0\refint\polimorph.dll
+D:\Desenvolvimento\C Sharp\polimorph\polimorph\obj\Debug\net6.0\polimorph.pdb
+D:\Desenvolvimento\C Sharp\polimorph\polimorph\obj\Debug\net6.0\polimorph.genruntimeconfig.cache
+D:\Desenvolvimento\C Sharp\polimorph\polimorph\obj\Debug\net6.0\ref\polimorph.dll
