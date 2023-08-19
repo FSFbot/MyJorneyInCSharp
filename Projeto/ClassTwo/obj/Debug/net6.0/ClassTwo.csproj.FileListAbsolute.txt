@@ -1,0 +1,15 @@
+d:\Desenvolvimento\C Sharp\Projeto\ClassTwo\bin\Debug\net6.0\ClassTwo.exe
+d:\Desenvolvimento\C Sharp\Projeto\ClassTwo\bin\Debug\net6.0\ClassTwo.deps.json
+d:\Desenvolvimento\C Sharp\Projeto\ClassTwo\bin\Debug\net6.0\ClassTwo.runtimeconfig.json
+d:\Desenvolvimento\C Sharp\Projeto\ClassTwo\bin\Debug\net6.0\ClassTwo.dll
+d:\Desenvolvimento\C Sharp\Projeto\ClassTwo\bin\Debug\net6.0\ClassTwo.pdb
+d:\Desenvolvimento\C Sharp\Projeto\ClassTwo\obj\Debug\net6.0\ClassTwo.csproj.AssemblyReference.cache
+d:\Desenvolvimento\C Sharp\Projeto\ClassTwo\obj\Debug\net6.0\ClassTwo.GeneratedMSBuildEditorConfig.editorconfig
+d:\Desenvolvimento\C Sharp\Projeto\ClassTwo\obj\Debug\net6.0\ClassTwo.AssemblyInfoInputs.cache
+d:\Desenvolvimento\C Sharp\Projeto\ClassTwo\obj\Debug\net6.0\ClassTwo.AssemblyInfo.cs
+d:\Desenvolvimento\C Sharp\Projeto\ClassTwo\obj\Debug\net6.0\ClassTwo.csproj.CoreCompileInputs.cache
+d:\Desenvolvimento\C Sharp\Projeto\ClassTwo\obj\Debug\net6.0\ClassTwo.dll
+d:\Desenvolvimento\C Sharp\Projeto\ClassTwo\obj\Debug\net6.0\refint\ClassTwo.dll
+d:\Desenvolvimento\C Sharp\Projeto\ClassTwo\obj\Debug\net6.0\ClassTwo.pdb
+d:\Desenvolvimento\C Sharp\Projeto\ClassTwo\obj\Debug\net6.0\ClassTwo.genruntimeconfig.cache
+d:\Desenvolvimento\C Sharp\Projeto\ClassTwo\obj\Debug\net6.0\ref\ClassTwo.dll

@@ -1,0 +1,15 @@
+d:\Desenvolvimento\C Sharp\Projeto\ClassThree\bin\Debug\net7.0\ClassThree.exe
+d:\Desenvolvimento\C Sharp\Projeto\ClassThree\bin\Debug\net7.0\ClassThree.deps.json
+d:\Desenvolvimento\C Sharp\Projeto\ClassThree\bin\Debug\net7.0\ClassThree.runtimeconfig.json
+d:\Desenvolvimento\C Sharp\Projeto\ClassThree\bin\Debug\net7.0\ClassThree.dll
+d:\Desenvolvimento\C Sharp\Projeto\ClassThree\bin\Debug\net7.0\ClassThree.pdb
+d:\Desenvolvimento\C Sharp\Projeto\ClassThree\obj\Debug\net7.0\ClassThree.csproj.AssemblyReference.cache
+d:\Desenvolvimento\C Sharp\Projeto\ClassThree\obj\Debug\net7.0\ClassThree.GeneratedMSBuildEditorConfig.editorconfig
+d:\Desenvolvimento\C Sharp\Projeto\ClassThree\obj\Debug\net7.0\ClassThree.AssemblyInfoInputs.cache
+d:\Desenvolvimento\C Sharp\Projeto\ClassThree\obj\Debug\net7.0\ClassThree.AssemblyInfo.cs
+d:\Desenvolvimento\C Sharp\Projeto\ClassThree\obj\Debug\net7.0\ClassThree.csproj.CoreCompileInputs.cache
+d:\Desenvolvimento\C Sharp\Projeto\ClassThree\obj\Debug\net7.0\ClassThree.dll
+d:\Desenvolvimento\C Sharp\Projeto\ClassThree\obj\Debug\net7.0\refint\ClassThree.dll
+d:\Desenvolvimento\C Sharp\Projeto\ClassThree\obj\Debug\net7.0\ClassThree.pdb
+d:\Desenvolvimento\C Sharp\Projeto\ClassThree\obj\Debug\net7.0\ClassThree.genruntimeconfig.cache
+d:\Desenvolvimento\C Sharp\Projeto\ClassThree\obj\Debug\net7.0\ref\ClassThree.dll

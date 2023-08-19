@@ -1,0 +1,15 @@
+D:\Desenvolvimento\C Sharp\Projeto\ClasseOne\bin\Debug\net6.0\ClasseOne.exe
+D:\Desenvolvimento\C Sharp\Projeto\ClasseOne\bin\Debug\net6.0\ClasseOne.deps.json
+D:\Desenvolvimento\C Sharp\Projeto\ClasseOne\bin\Debug\net6.0\ClasseOne.runtimeconfig.json
+D:\Desenvolvimento\C Sharp\Projeto\ClasseOne\bin\Debug\net6.0\ClasseOne.dll
+D:\Desenvolvimento\C Sharp\Projeto\ClasseOne\bin\Debug\net6.0\ClasseOne.pdb
+D:\Desenvolvimento\C Sharp\Projeto\ClasseOne\obj\Debug\net6.0\ClasseOne.csproj.AssemblyReference.cache
+D:\Desenvolvimento\C Sharp\Projeto\ClasseOne\obj\Debug\net6.0\ClasseOne.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desenvolvimento\C Sharp\Projeto\ClasseOne\obj\Debug\net6.0\ClasseOne.AssemblyInfoInputs.cache
+D:\Desenvolvimento\C Sharp\Projeto\ClasseOne\obj\Debug\net6.0\ClasseOne.AssemblyInfo.cs
+D:\Desenvolvimento\C Sharp\Projeto\ClasseOne\obj\Debug\net6.0\ClasseOne.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\C Sharp\Projeto\ClasseOne\obj\Debug\net6.0\ClasseOne.dll
+D:\Desenvolvimento\C Sharp\Projeto\ClasseOne\obj\Debug\net6.0\refint\ClasseOne.dll
+D:\Desenvolvimento\C Sharp\Projeto\ClasseOne\obj\Debug\net6.0\ClasseOne.pdb
+D:\Desenvolvimento\C Sharp\Projeto\ClasseOne\obj\Debug\net6.0\ClasseOne.genruntimeconfig.cache
+D:\Desenvolvimento\C Sharp\Projeto\ClasseOne\obj\Debug\net6.0\ref\ClasseOne.dll

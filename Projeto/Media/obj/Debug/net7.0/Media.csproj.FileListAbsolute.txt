@@ -1,0 +1,15 @@
+d:\Desenvolvimento\C Sharp\Projeto\Media\bin\Debug\net7.0\Media.exe
+d:\Desenvolvimento\C Sharp\Projeto\Media\bin\Debug\net7.0\Media.deps.json
+d:\Desenvolvimento\C Sharp\Projeto\Media\bin\Debug\net7.0\Media.runtimeconfig.json
+d:\Desenvolvimento\C Sharp\Projeto\Media\bin\Debug\net7.0\Media.dll
+d:\Desenvolvimento\C Sharp\Projeto\Media\bin\Debug\net7.0\Media.pdb
+d:\Desenvolvimento\C Sharp\Projeto\Media\obj\Debug\net7.0\Media.csproj.AssemblyReference.cache
+d:\Desenvolvimento\C Sharp\Projeto\Media\obj\Debug\net7.0\Media.GeneratedMSBuildEditorConfig.editorconfig
+d:\Desenvolvimento\C Sharp\Projeto\Media\obj\Debug\net7.0\Media.AssemblyInfoInputs.cache
+d:\Desenvolvimento\C Sharp\Projeto\Media\obj\Debug\net7.0\Media.AssemblyInfo.cs
+d:\Desenvolvimento\C Sharp\Projeto\Media\obj\Debug\net7.0\Media.csproj.CoreCompileInputs.cache
+d:\Desenvolvimento\C Sharp\Projeto\Media\obj\Debug\net7.0\Media.dll
+d:\Desenvolvimento\C Sharp\Projeto\Media\obj\Debug\net7.0\refint\Media.dll
+d:\Desenvolvimento\C Sharp\Projeto\Media\obj\Debug\net7.0\Media.pdb
+d:\Desenvolvimento\C Sharp\Projeto\Media\obj\Debug\net7.0\Media.genruntimeconfig.cache
+d:\Desenvolvimento\C Sharp\Projeto\Media\obj\Debug\net7.0\ref\Media.dll
